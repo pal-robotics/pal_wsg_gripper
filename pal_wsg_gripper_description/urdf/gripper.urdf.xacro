@@ -65,9 +65,11 @@
         <material name="Black"/>
       </visual>
       <collision>
-        <origin xyz="0 0 0" rpy="0 0 0" />
+        <!-- <origin xyz="0 0 0" rpy="0 0 0" /> -->        
+        <origin xyz="0.043 0 -0.12" rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://pal_wsg_gripper_description/meshes/gripper_finger_link_collision.dae" scale="1 1 1"/>
+          <!-- <mesh filename="package://pal_wsg_gripper_description/meshes/gripper_finger_link_collision.dae" scale="1 1 1"/> -->
+          <box size="0.022 0.03 0.07"/>
         </geometry>
       </collision>
     </link>
@@ -107,9 +109,11 @@
         <material name="Black"/>
       </visual>
       <collision>
-        <origin xyz="0 0 0" rpy="0 0 0" />
+        <!-- <origin xyz="0 0 0" rpy="0 0 0" /> -->
+        <origin xyz="-0.043 0 -0.12" rpy="0 0 0" />
         <geometry>
-          <mesh filename="package://pal_wsg_gripper_description/meshes/gripper_finger_link_collision.dae" scale="-1 -1 1"/>
+          <!-- <mesh filename="package://pal_wsg_gripper_description/meshes/gripper_finger_link_collision.dae" scale="-1 -1 1"/> -->
+          <box size="0.022 0.03 0.07"/>
         </geometry>
       </collision>
     </link>
