@@ -4,6 +4,6 @@
         pkg="controller_manager" type="spawner" output="screen"
         args="--timeout 120
               gripper_controller" />
-  <!-- <include file="$(find pal_wsg_gripper_controller_configuration)/launch/current_limit_controllers.launch"/> -->
+  <include file="$(find pal_wsg_gripper_controller_configuration)/launch/current_limit_controllers.launch"/>
 </launch>
 
