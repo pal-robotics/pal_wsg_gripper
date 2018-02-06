@@ -2,8 +2,8 @@
 Changelog for package pal_wsg_gripper_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2018-02-06)
+------------------
 * set eps to 0
 * add fingertip force sensors
 * fix reduction and limits
