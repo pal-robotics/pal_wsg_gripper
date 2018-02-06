@@ -9,7 +9,7 @@
 
   <xacro:property name="lower" value="0.002" />
   <xacro:property name="upper" value="0.034" />
-  <xacro:property name="gripper_eps" value="0.001" />
+  <xacro:property name="gripper_eps" value="0.000" />
 
   <xacro:macro name="pal_wsg_gripper" params="name parent *origin">
           
