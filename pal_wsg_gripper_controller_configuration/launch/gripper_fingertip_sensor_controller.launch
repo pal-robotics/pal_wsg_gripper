@@ -3,7 +3,7 @@
 
   <arg name="finger" default="left"/>
   <!-- Force-torque sensors controller -->
-  <rosparam command="load" file="$(find pal_wsg_gripper_controller_configuration_gazebo)/config/gripper_$(arg finger)_fingertip_sensor_controller.yaml" />
+  <rosparam command="load" file="$(find pal_wsg_gripper_controller_configuration)/config/gripper_$(arg finger)_fingertip_sensor_controller.yaml" />
 
   <!-- Controllers that come up started -->
   <node name="bringup_controllers_spawner_$(arg finger)_fingertip"
