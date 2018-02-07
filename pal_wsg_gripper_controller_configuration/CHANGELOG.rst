@@ -2,6 +2,11 @@
 Changelog for package pal_wsg_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* remove 'gazebo' sufix
+* Contributors: Jordi Pages
+
 0.0.3 (2018-02-06)
 ------------------
 * add controller configuration for finger sensors

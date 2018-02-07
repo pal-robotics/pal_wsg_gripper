@@ -2,6 +2,9 @@
 Changelog for package pal_wsg_gripper_controller_configuration_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.3 (2018-02-06)
 ------------------
 * add fingertip force sensors
