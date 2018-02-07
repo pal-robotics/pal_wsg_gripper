@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>pal_wsg_gripper</name>
-  <version>0.0.3</version>
+  <version>0.0.4</version>
   <description>Meta-package including information of the PAL Schunk WSG gripper</description>
 
   <author email="jordi.pages@pal-robotics.com">Jordi Pages</author>
