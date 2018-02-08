@@ -2,6 +2,9 @@
 Changelog for package pal_wsg_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.4 (2018-02-07)
 ------------------
 * remove 'gazebo' sufix
