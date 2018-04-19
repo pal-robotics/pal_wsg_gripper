@@ -2,6 +2,9 @@
 Changelog for package pal_wsg_gripper_controller_configuration_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2018-02-08)
 ------------------
 * add missing install rule for config folder

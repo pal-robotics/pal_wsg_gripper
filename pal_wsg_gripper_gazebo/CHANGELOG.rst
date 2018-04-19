@@ -2,6 +2,9 @@
 Changelog for package pal_wsg_gripper_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.5 (2018-02-08)
 ------------------
 

@@ -2,6 +2,14 @@
 Changelog for package pal_wsg_gripper_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'add-tool-link' into 'dubnium-devel'
+  Add gripper_tool_link
+  See merge request robots/pal_wsg_gripper!1
+* Add gripper_tool_link
+* Contributors: Hilario Tome, Victor Lopez
+
 0.0.5 (2018-02-08)
 ------------------
 
