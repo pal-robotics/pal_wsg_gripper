@@ -2,8 +2,8 @@
 Changelog for package pal_wsg_gripper_controller_configuration_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.7 (2019-03-25)
+------------------
 * Merge branch 'add-side' into 'dubnium-devel'
   Add side to wsg gripper
   See merge request robots/pal_wsg_gripper!2

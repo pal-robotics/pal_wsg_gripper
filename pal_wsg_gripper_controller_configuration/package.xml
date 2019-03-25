@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>pal_wsg_gripper_controller_configuration</name>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
   <description>Configuration of the controllers for the Schunk WSG gripper</description>
 
   <author email="jordi.pages@pal-robotics.com">Jordi Pages</author>
