@@ -2,6 +2,9 @@
 Changelog for package pal_wsg_gripper_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.0.6 (2018-04-19)
 ------------------
 * Merge branch 'add-tool-link' into 'dubnium-devel'
