@@ -11,8 +11,16 @@ closed  = [0.03]
 
 if __name__ == "__main__":
   rospy.init_node("home_gripper")
-  rospy.loginfo("Waiting for gripper_controller...")
-  client = actionlib.SimpleActionClient("gripper_controller/follow_joint_trajectory", FollowJointTrajectoryAction)
+
+  suffix = rospy.get_param("~suffix", None)
+  if suffix == None:
+    rospy.logerr("No suffix found in param: ~suffix")
+    exit(1)
+
+  joint_names = ["gripper" + suffix + "_finger_joint"]
+
+  rospy.loginfo("Waiting for gripper" + suffix + "_controller...")
+  client = actionlib.SimpleActionClient("gripper" + suffix + "_controller/follow_joint_trajectory", FollowJointTrajectoryAction)
   client.wait_for_server()
   rospy.loginfo("...connected.")
 
