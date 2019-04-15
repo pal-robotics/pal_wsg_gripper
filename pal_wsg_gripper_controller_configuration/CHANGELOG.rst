@@ -2,8 +2,8 @@
 Changelog for package pal_wsg_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.8 (2019-04-15)
+------------------
 * Add side to wsg gripper
 * Contributors: Victor Lopez
 
