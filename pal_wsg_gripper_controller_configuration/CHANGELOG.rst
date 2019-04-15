@@ -2,6 +2,11 @@
 Changelog for package pal_wsg_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add side to wsg gripper
+* Contributors: Victor Lopez
+
 0.0.7 (2019-03-25)
 ------------------
 * Merge branch 'add-side' into 'dubnium-devel'
