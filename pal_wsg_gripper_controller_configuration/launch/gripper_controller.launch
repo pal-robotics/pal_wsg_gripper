@@ -7,7 +7,7 @@
         args="--timeout 120
               gripper$(arg suffix)_controller" />
   <include file="$(find pal_wsg_gripper_controller_configuration)/launch/current_limit_controllers.launch">
-    <arg name="suffix" value="$(arg suffix)"/>
+    <param name="suffix" value="$(arg suffix)"/>
   </include>
 </launch>
 
