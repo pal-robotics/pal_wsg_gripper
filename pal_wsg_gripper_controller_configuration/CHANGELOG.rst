@@ -2,8 +2,8 @@
 Changelog for package pal_wsg_gripper_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.9 (2019-05-02)
+------------------
 * Merge branch 'fix_typos' into 'dubnium-devel'
   Fix typos and use side info
   See merge request robots/pal_wsg_gripper!4
