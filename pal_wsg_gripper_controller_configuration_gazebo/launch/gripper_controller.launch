@@ -7,6 +7,6 @@
         args="--timeout 120
               gripper$(arg suffix)_controller" />
   <node name="home_gripper$(arg suffix)" pkg="pal_wsg_gripper_controller_configuration_gazebo" type="home_gripper.py" output="screen">
-    <arg name="suffix" value="$(arg suffix)"/>  
+    <param name="suffix" value="$(arg suffix)"/>  
   </node>
 </launch>
